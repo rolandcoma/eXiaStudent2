@@ -1,0 +1,6 @@
+export GOOGLE_APPLICATION_CREDENTIALS=/home/roland/Dev/eXia_Student/lib/config/exia-students-d7b7d-firebase-adminsdk-kob6m-7c839010ba.json
+npm run dev
+curl -x localhost:3000
+../../notes.curl
+
+
